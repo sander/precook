@@ -1,6 +1,6 @@
 # precook
 
-Utilities for pre-rendering ClojureScript-based pages in JVM. This helps for example to run a static site developed using [Om](https://github.com/omcljs/om) and [bidi](https://github.com/omcljs/om) in a robot-friendly way.
+Utilities for pre-rendering ClojureScript-based pages in JVM. This helps for example to run a static site developed using [Om](https://github.com/omcljs/om) and [bidi](https://github.com/juxt/bidi) in a robot-friendly way.
 
 [![Clojars Project](http://clojars.org/precook/latest-version.svg)](http://clojars.org/precook)
 
